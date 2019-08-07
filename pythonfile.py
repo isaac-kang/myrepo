@@ -27,5 +27,9 @@ rapunzel
 
 whinney the pooh
 
+<<<<<<< HEAD
 
 wow
+=======
+hehhhhh
+>>>>>>> origin/branch1
