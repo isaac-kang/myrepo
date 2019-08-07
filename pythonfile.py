@@ -5,3 +5,6 @@ hello
 what are you doing?
 
 i am practicing github
+
+
+hi how are you
